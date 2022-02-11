@@ -1,0 +1,138 @@
+@media (max-width: 1310px) {
+    .popular{
+        margin-left: 120px;
+    }
+    
+    .section-1{
+        width: 510px;
+    }
+
+    .section{
+        width: 510px;
+    }
+
+    .image{
+        width: 510px;
+    }
+}
+
+@media (max-width: 1210px) {
+    .section-1{
+        width: 450px;
+    }
+
+    .section{
+        width: 450px;
+    }
+
+    .image{
+        width: 450px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .logo{
+        margin: 7px 105px 20px 130px;
+    }
+    
+    .section-1{
+        width: 400px;
+    }
+
+    .section{
+        width: 400px;
+    }
+
+    .image{
+        width: 400px;
+    }
+
+    .title{
+        font-size: 32px;
+    }
+
+    .text{
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .logo{
+        margin: 5px 100px 17px 120px;
+    }
+    
+    .section-1{
+        width: 350px;
+    }
+
+    .section{
+        width: 350px;
+    }
+
+    .image{
+        width: 350px;
+    }
+
+    .footer-title{
+        font-size: 18px;
+    }
+
+    .footer-list{
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 900px) {
+    .logo{
+        margin: 3px 80px 15px 110px;
+    }
+    
+    .section-1{
+        width: 300px;
+    }
+
+    .section{
+        width: 300px;
+    }
+
+    .image{
+        width: 300px;
+    }
+}
+
+@media (max-width: 800px) {
+    .ul{
+        display: none;
+    }
+
+    .burger{
+        display: block;
+        margin-left: 370px;
+    }
+}
+
+@media (max-width: 730px) {
+    .burger{
+        margin-left: 320px;
+    }
+
+    .section-1{
+        width: 300px;
+    }
+
+    .section{
+        width: 300px;
+    }
+
+    .image{
+        width: 300px;
+    }
+
+    .footer-title{
+        font-size: 10px;
+    }
+
+    .footer-list{
+        font-size: 5px;
+    }
+}
